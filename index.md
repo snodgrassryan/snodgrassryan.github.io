@@ -21,7 +21,7 @@ At Cornell, I was fortunate enough to be awarded a NSF Graduate Research Fellows
 
 <a href="/tiny">Solar thermal diagnostic system (TINY)<br><img src="assets/img/TINY400x150.png" style="border:1px solid black"></a>
 
-<a href="/elastocaloric">Elastocaloric refrigerator<br><img src="assets/img/Elastocaloric400x150.gif" style="border:1px solid black"></a>
+<a href="/elastocaloric">Elastocaloric refrigerator<br><img src="assets/img/elastocaloric400x150.gif" style="border:1px solid black"></a>
 
 <a href="/sma">Heat-driven shape memory actuators<br><img src="assets/img/SMA400x150.jpg" style="border:1px solid black"></a>
 
