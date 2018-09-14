@@ -53,7 +53,7 @@ I worked with robotics at both Honda and Dow AgroSciences. It's harder for me to
 <table class="talenttable">
   <tr>
     <td>
-      <a href="assets/img/Crosssection.png" data-lightbox="image-1" data-title="Test caption">Mechanical design<br><img src="assets/img/Crosssection_small.png"></a>
+      <a href="assets/img/Crosssection.PNG" data-lightbox="image-1" data-title="Test caption">Mechanical design<br><img src="assets/img/Crosssection_small.png"></a>
     </td>
     <td>
       <a href="assets/img/Manufacturing1.jpg" data-lightbox="image-1" data-title="Test caption">Manufacturing<br><img src="assets/img/Manufacturing1_small.jpg"></a>
@@ -61,10 +61,10 @@ I worked with robotics at both Honda and Dow AgroSciences. It's harder for me to
   </tr>
   <tr>
     <td>
-      <a href="assets/img/Program.png" data-lightbox="image-1" data-title="Test caption">Programming<br><img src="assets/img/Program_small.png"></a>
+      <a href="assets/img/Program.PNG" data-lightbox="image-1" data-title="Test caption">Programming<br><img src="assets/img/Program_small.png"></a>
     </td>
     <td>
-      <a href="assets/img/PCB.png" data-lightbox="image-1" data-title="Test caption">Electronics<br><img src="assets/img/PCB_small2.png"></a>
+      <a href="assets/img/PCB.PNG" data-lightbox="image-1" data-title="Test caption">Electronics<br><img src="assets/img/PCB_small2.png"></a>
     </td>
   </tr>
   <tr>
@@ -85,15 +85,15 @@ I worked with robotics at both Honda and Dow AgroSciences. It's harder for me to
   </tr>
   <tr>
     <td>
-      <a href="assets/img/Robotics.jpg" data-lightbox="image-1" data-title="Test caption">Robotic systems<br><img src="assets/img/Robotics_small.png"></a>
+      <a href="assets/img/Robotics.jpg" data-lightbox="image-1" data-title="Test caption">Robotic systems<br><img src="assets/img/Robotics_small.PNG"></a>
     </td>
     <td>
-      <a href="assets/img/Optics.png" data-lightbox="image-1" data-title="Test caption">Optics<br><img src="assets/img/Optics_small.png"></a>
+      <a href="assets/img/Optics.PNG" data-lightbox="image-1" data-title="Test caption">Optics<br><img src="assets/img/Optics_small.PNG"></a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="assets/img/Publication.png" data-lightbox="image-1" data-title="Test caption">Publishing my work<br><img src="assets/img/Publication_small.png"></a>
+      <a href="assets/img/Publication.PNG" data-lightbox="image-1" data-title="Test caption">Publishing my work<br><img src="assets/img/Publication_small.png"></a>
     </td>
     <td>
       <a href="assets/img/Deployed.jpg" data-lightbox="image-1" data-title="Test caption">Deploying my work<br><img src="assets/img/Deployed_small.png"></a>
