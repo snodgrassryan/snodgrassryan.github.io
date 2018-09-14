@@ -1,0 +1,29 @@
+---
+---
+
+@import "jekyll-theme-minimal";
+
+table {
+  border: none;
+}
+td {
+    padding: 0;
+    border: none;
+}
+
+table.talenttable td {
+  height: 220px;
+  overflow: hidden;
+}
+
+table.talenttable img {
+  height: 150px;
+  width: 200px;
+  border: 1px solid black;
+}
+
+p.rec img{
+  height: 150px;
+  width: 150px;
+  border: 1px solid black;
+}
