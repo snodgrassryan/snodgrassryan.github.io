@@ -5,9 +5,7 @@ layout: default
 
 <h3>Hi! I am a mechanical engineer at Cornell University.</h3>
 
-I will graduate with a PhD in 2019. I'm looking for interesting new projects to pursue - please contact me with opportunities at <u>rjs492@cornell.edu</u>
-
-I hope the following information gives you a better idea of how I am qualified for a variety of engineering projects. I've tried to include descriptions on each image - just click on them!
+I will graduate with a PhD in 2019. I'm looking for interesting new projects to pursue - please contact me with opportunities at <b>rjs492@cornell.edu</b>. I hope the following information gives you a better idea of how I am qualified for a variety of engineering projects.
 
 <br>
 
@@ -32,7 +30,7 @@ At Cornell, I was fortunate enough to be awarded a NSF Graduate Research Fellows
 <h3>Places I've worked:</h3>
 I have a variety of professional experiences, both in industry and at universities. <u>I am a talented engineer and an adept research scientist</u>.
 
-I worked with robotics at both Honda and Dow AgroSciences. It's hard for me to showcase my work from this topic because of IP limitations; however, I'd be happy to discuss the topic. I have experience with Motoman and EPSON 6-axis robots, vision algorithms for control, and process control for manufacturing.
+I worked with robotics at both Honda and Dow AgroSciences. It's hard for me to showcase my work from this topic because of IP limitations; however, I'd be happy to discuss the topic. I have experience with Motoman and EPSON 6-axis and 3-axis robots, vision algorithms for control, and process control for manufacturing.
 
 <h4>
 <ul>
@@ -49,6 +47,7 @@ I worked with robotics at both Honda and Dow AgroSciences. It's hard for me to s
 
 <h3>Engineering skillset:</h3>
 
+Below I've tried to summarize my technical skills. Please click on the images for more information on each subject, or have a look at my <a href="/assets/pdf/Snodgrass-Ryan-Resume-Sept2018.pdf" target="blank">Résumé <img src="assets/images/pdficon.png" style="width:14px;height:14px;"></a>.
 
 <table class="talenttable">
   <tr>
@@ -80,12 +79,12 @@ I worked with robotics at both Honda and Dow AgroSciences. It's hard for me to s
       <a href="assets/img/ThermalSim.png" data-lightbox="image-1" data-title="This is a simulation I produced in COMSOL to determine how long TINY could stay isothermal if allowed to cool at room temperature. I used the simulation for initial design of the device, and later confirmed the results via experiment (right). I'm also performing simulations for my other projects: for example, I'm using Simulink to estimate expected stroke length from my heat-driven, shape memory alloy actuator.">Thermal simulation<br><img src="assets/img/Thermalsim_small.png"></a>
     </td>
     <td>
-      <a href="assets/img/Sensors.jpg" data-lightbox="image-1" data-title="An S-beam load cell for measuring the tensile force on NiTi (Nitinol) wires used in the elastocaloric refrigeration project. This is 2.5 kip load cell. I'm using a 24-bit ADC that has an effective sampling rate of ~ 1 kHz. Rapid sampling is important so that I can tell the actuator to break at precisely the right time: high strain rates are essential for the largest temperature changes in the refrigerator, but overloading the sample is bad for material fatigue.">Sensors<br><img src="assets/img/Sensors_small.jpg"></a>
+      <a href="assets/img/Sensors.jpg" data-lightbox="image-1" data-title="An S-beam load cell for measuring the tensile force on NiTi (Nitinol) wires used in the elastocaloric refrigeration project. This is 2.5 kip load cell. To measure the signal from the load cell I'm using a 24-bit ADC that has an effective sampling rate of ~ 1 kHz. Rapid sampling is important so that I can tell the actuator to reverse direction at precisely the right time: high strain rates are essential for the largest temperature changes in the refrigerator, but overloading the sample is bad for material fatigue.">Sensors<br><img src="assets/img/Sensors_small.jpg"></a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="assets/img/Robotics.jpg" data-lightbox="image-1" data-title="I've implemented many safety features for the elastocaloric refrigerator. Here is a mechanical E-stop if the systems needs to absolutely be shut down rapidly. You can also see the safety enclosure I've built around the system. This is mostly unnecessary, but we plan for the worst. I have handled all the mechanical, electrical, and thermal design for this refrigerator. The large black object is a linear actuator with 3 inch stroke, 1.6 kip max dynamic load, and 0.7 inch/s speed. I've written the code for control of the actuator as well. What a fun system to build! (minus the inevitable hiccups) You can also see that I have machined all the mounting parts for a second actuator, which I am eager to implement.">Robotic systems<br><img src="assets/img/Robotics_small.PNG"></a>
+      <a href="assets/img/Robotics.jpg" data-lightbox="image-1" data-title="I've implemented many safety features for the elastocaloric refrigerator. Here is a mechanical E-stop if the systems needs to be shut down rapidly. You can also see the safety enclosure I've built around the system. I have handled all the mechanical, electrical, and thermal design for this refrigerator. The large black object is a linear actuator with 3 inch stroke, 1.6 kip max dynamic load, and 0.7 inch/s speed. I've written the code for control of the actuator as well. What a fun system to build! You can also see that I have machined all the mounting parts for a second actuator, which I am implementing soon.">Robotic systems<br><img src="assets/img/Robotics_small.PNG"></a>
     </td>
     <td>
       <a href="assets/img/Optics.PNG" data-lightbox="image-1" data-title="On the left is a simplified schematic showing how light travels through the TINY device. I used a centrally-located LED to illuminate multiple sample wells (because of space constraints), and there is an array of very sensitive photodiodes on a PCB placed beneath the samples to detect changes in both fluorescence and absorbance. On the right you can see a simplified transmission spectra for a dual-bandpass optical filter which makes it possible to measure multiple signals with no mechanical movement.">Optics<br><img src="assets/img/Optics_small.PNG"></a>
