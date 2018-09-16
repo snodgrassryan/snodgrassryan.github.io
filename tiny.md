@@ -2,7 +2,7 @@
 layout: default
 ---
 
-### [back to home page](./)
+<h3><a href="./"><img src="assets/images/back.png" style="width:20px;height:20px;"> back to home page</a></h3>
 
 * * *
 
