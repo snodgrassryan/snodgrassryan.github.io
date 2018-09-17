@@ -17,11 +17,11 @@ I will graduate with a PhD in 2019. I'm looking for interesting new projects to 
 <h3>Doctoral research projects:</h3>
 At Cornell, I was fortunate enough to be awarded a NSF Graduate Research Fellowship, which gave me the flexibility to research a variety of interesting topics. Generally, my research has focused on <u>thermal systems</u>. Click on the images below for more information on each of my recent projects.
 
-<a href="/tiny">Solar thermal diagnostic system (TINY)<br><img src="assets/img/TINY400x150.png" style="border:1px solid black"></a>
-
 <a href="/elastocaloric">Elastocaloric refrigeration<br><img src="assets/img/elastocaloric400x150.gif" style="border:1px solid black;width:400px;height:150px"></a>
 
-<a href="/sma">Heat-driven shape memory actuators<br><img src="assets/img/SMA400x150.jpg" style="border:1px solid black"></a>
+<a href="/tiny">Portable solar thermal system (TINY)<br><img src="assets/img/TINY400x150.png" style="border:1px solid black"></a>
+
+<a href="/shapememoryalloy">Heat-driven shape memory actuators<br><img src="assets/img/SMA400x150.jpg" style="border:1px solid black"></a>
 
 <br>
 <br>

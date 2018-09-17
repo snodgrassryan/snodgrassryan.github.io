@@ -1,8 +1,9 @@
 title: Ryan Snodgrass
-logo: /assets/img/solarglasses.jpg
-  #/assets/img/IMG_20171115_144337279c.jpg
-  #/assets/img/logo.png
-description:
+logo: /assets/img/solarglasses.png
+description: Ryan Snodgrass, mechanical engineer at Cornell University.
 show_downloads: false
-google_analytics:
+google_analytics: UA-125829271-1
 theme: jekyll-theme-minimal
+
+plugins:
+  - jekyll-seo-tag
