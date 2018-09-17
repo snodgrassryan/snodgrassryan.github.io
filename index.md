@@ -5,11 +5,7 @@ layout: default
 
 <h3>Hi! I am a mechanical engineer at Cornell University.</h3>
 
-I will graduate with a PhD in 2019. I'm looking for interesting new projects to pursue - please contact me with opportunities at <b>rjs492@cornell.edu</b>. I hope the following information gives you a better idea of how I am qualified for a variety of engineering projects.
-
-<br>
-
-<h2>I love building things!</h2>
+I will graduate with a PhD in 2019. I'm looking for interesting new projects to pursue - please contact me with opportunities at <b>rjs492@cornell.edu</b>.
 
 <br>
 
@@ -23,24 +19,6 @@ At Cornell, I was fortunate enough to be awarded a NSF Graduate Research Fellows
 
 <a href="/shapememoryalloy">Heat-driven shape memory actuators<br><img src="assets/img/SMA400x150.jpg" style="border:1px solid black"></a>
 
-<br>
-<br>
-<hr style="height:3px">
-
-<h3>Places I've worked:</h3>
-I have a variety of professional experiences, both in industry and at universities. <u>I am a talented engineer and an adept research scientist</u>.
-
-I worked with robotics at both Honda and Dow AgroSciences. It's hard for me to showcase my work from this topic because of IP limitations; however, I'd be happy to discuss the topic. I have experience with Motoman and EPSON 6-axis and 3-axis robots, vision algorithms for control, and process control for manufacturing.
-
-<h4>
-<ul>
-  <li>Honda Engineering North America</li>
-  <li>Dow AgroSciences</li>
-  <li>Cornell University</li>
-  <li>IMTEK, University of Freiburg, Baden-Württemberg, Germany</li>
-  <li>Ohio State University</li>
-</ul>
-</h4>
 <br>
 
 <hr style="height:3px">
@@ -101,6 +79,23 @@ Below I've tried to summarize my technical skills. Please click on the images fo
 </table>
 
 <br>
+<hr style="height:3px">
+
+<h3>Places I've worked:</h3>
+I have a variety of professional experiences, both in industry and at universities. <u>I am a talented engineer and an adept research scientist</u>.
+
+I worked with robotics at both Honda and Dow AgroSciences. It's hard for me to showcase my work from this topic because of IP limitations; however, I'd be happy to discuss the topic. I have experience with Motoman and EPSON 6-axis and 3-axis robots, vision algorithms for control, and process control for manufacturing.
+
+<h4>
+<ul>
+  <li>Honda Engineering North America</li>
+  <li>Dow AgroSciences</li>
+  <li>Cornell University</li>
+  <li>IMTEK, University of Freiburg, Baden-Württemberg, Germany</li>
+  <li>Ohio State University</li>
+</ul>
+</h4>
+<br>
 
 <hr style="height:3px">
 <h3>Professional interests (incomplete list):</h3>
@@ -121,7 +116,7 @@ Below I've tried to summarize my technical skills. Please click on the images fo
 <hr style="height:3px">
 <h3>Hobbies:</h3>
 
-I am a very self-motivated individual (it's easy to be motivated when having fun), and my work is important to me. However, I also have a variety of hobbies, and I value a balanced lifestyle.
+I am a very self-motivated individual, and my work is important to me; however, I also have a variety of hobbies, and I value a balanced lifestyle.
 
 <ul>
   <li>Camping</li>
