@@ -8,7 +8,7 @@ _yay_
 
 [back](./)
 
-<li><a href="/assets/pdf/Snodgrass-Ryan-Resume-Sept2018.pdf">Résumé<img src="assets/images/pdficon.png" style="width:10px;height:10px;"></a></li>
+
 
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
